@@ -7,10 +7,10 @@ co-owner of [Ethereal Workshop](https://etherealwork.shop)
 
 i fuck w chromebooks
 
-my opinions on various coding languages - not ordered
+my opinions on various languages - not ordered
 - python: peak programming
 - bash: typically fire
-- html: other peak programming but for websites
+- html: peak but for websites
 - javascript: its really good but not peak
 - css: die die die die die die die die die die die die die die die die die die die die die die die die die die die
 
