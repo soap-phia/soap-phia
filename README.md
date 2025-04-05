@@ -3,7 +3,7 @@ its meeee
 
 hi im sophia 14yo trans
 
-co-owner of [Ethereal Workshop](https://etherealwork.shop)
+Shut up, Synaptic
 
 i fuck w chromebooks
 
