@@ -7,6 +7,7 @@ my opinions on various languages - not ordered
 - html: peak but for websites
 - javascript: its really good but not peak
 - css: die die die die die die die die die die die die die die die die die die die die die die die die die die die
+- french: read: opinions on css
 
 things i make/made
 - Mozzarella - Crostini Utility Script
