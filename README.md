@@ -1,11 +1,5 @@
-# sophie
+# sophia
 its meeee
-
-hi im sophia 14yo trans
-
-Shut up, Synaptic
-
-i fuck w chromebooks
 
 my opinions on various languages - not ordered
 - python: peak programming
@@ -15,9 +9,9 @@ my opinions on various languages - not ordered
 - css: die die die die die die die die die die die die die die die die die die die die die die die die die die die
 
 things i make/made
-- mozzarella
-- Sign into your personal account on a school Chromebook (or maybe others) (requires another device): peak exploit totally not patched and outclassed - on TN
-- FUCK: an acual decent exploit i suppose - on TN
+- Mozzarella - Crostini Utility Script
+- IRS (Internet Recovery Shim) - Does what it says
+- Something that Rhymes with Grug - Coming soon...
 
 words based on how much i like them:
 - peak: peak word
